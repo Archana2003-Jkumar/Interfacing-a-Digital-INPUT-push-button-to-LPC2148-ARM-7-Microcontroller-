@@ -144,7 +144,8 @@ int main ()
 Interfacing a digital output with ARM microcontroller is executed .
 
 ### Output screen shots :
-![pm1.png](./pm1.png)
+![pm0](./pm0.png)
+![pm2](./pm2.png)
 
 
 
